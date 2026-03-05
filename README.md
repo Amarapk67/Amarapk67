@@ -1,9 +1,9 @@
 <h1>Hi, I'm Amara! <br/>System Administrator</a>,  <a>Network Engineer</a>, <a>Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-- <h2>Certifications</h2>
+<h2>Certifications</h2>
   - [CompTIA Security+ Certification](https://www.credly.com/badges/015be6ff-a858-4562-b35d-ae2d03cb5387/public_url)
   - [CompTIA A+ Certification](https://www.credly.com/badges/b52dc781-0fb8-4af7-90b0-259ec65a7504/public_url)
-  - [ISC2 Certified in Cybersecurity Certification](https://www.credly.com/badges/015be6ff-a858-4562-b35d-ae2d03cb5387/public_url)
+  - [ISC2 Certified Cybersecurity](https://www.credly.com/badges/015be6ff-a858-4562-b35d-ae2d03cb5387/public_url)
  
 <h2>👨‍💻 System Admin Projects:</h2>
 
